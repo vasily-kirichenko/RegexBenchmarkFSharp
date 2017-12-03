@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RegexBenchmarkFSharp", "RegexBenchmarkFSharp.fsproj", "{FB28C7E1-DFE5-4846-A777-D5B8260E3009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB28C7E1-DFE5-4846-A777-D5B8260E3009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB28C7E1-DFE5-4846-A777-D5B8260E3009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB28C7E1-DFE5-4846-A777-D5B8260E3009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB28C7E1-DFE5-4846-A777-D5B8260E3009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
